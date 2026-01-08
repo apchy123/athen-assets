@@ -5,6 +5,7 @@
     ".git/",
     ".github/",
     "LICENSE",
-    "broadcast_text.txt"
+    "broadcast_text.txt",
+    "people.json"
   ]
 }
