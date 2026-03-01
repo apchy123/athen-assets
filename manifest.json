@@ -4,8 +4,6 @@
     ".gitignore",
     ".git/",
     ".github/",
-    "LICENSE",
-    "broadcast_text.txt",
-    "people.json"
+    "LICENSE"
   ]
 }
